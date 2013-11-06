@@ -4,11 +4,6 @@ requirejs.config({
 	paths: {
 		'jquery': '../libs/jquery',
 		'lodash': '../libs/lodash',
-	},
-	shim: {
-		'lodash': {
-			exports: '_'
-		}
 	}
 });
 
