@@ -7,4 +7,4 @@ define(function(require) {
 			$(appSelector).text('Javascript App Started!');
 		};
 	};
-})
+});
