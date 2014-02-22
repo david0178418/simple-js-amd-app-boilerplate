@@ -1,7 +1,5 @@
-Current Library versions:
+Default Bower-Included Libraries:
 
-jQuery v2.0.3
-
-Lo-Dash 2.2.1 (Modern Browser Build)
-
-RequireJS 2.1.9
+jQuery
+Lo-Dash
+RequireJS
