@@ -2,8 +2,8 @@ requirejs.config({
 	//urlArgs: "bust=" +  (new Date()).getTime(),	//cache-bust if needed
 	baseUrl: 'src',
 	paths: {
-		'jquery': '../libs/jquery',
-		'lodash': '../libs/lodash',
+		'jquery': '../libs/jquery/dist/jquery',
+		'lodash': '../libs/lodash/dist/lodash',
 	}
 });
 
